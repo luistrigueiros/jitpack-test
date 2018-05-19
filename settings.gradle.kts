@@ -1,1 +1,1 @@
-rootProject.name = "jitpack-test"
+rootProject.name = "jitpack-test-provider"
