@@ -14,6 +14,7 @@ buildscript {
 plugins {
     java
     application
+    maven
 }
 apply {
     plugin("kotlin")
